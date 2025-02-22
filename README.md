@@ -101,3 +101,7 @@ streamlit run src/main.py
 ```
 
 The app will be running at: http://localhost:8501
+
+## Demo
+
+https://github.com/user-attachments/assets/c19cbc16-e79f-4e7c-a07f-7e0046f1f0c8
