@@ -2,6 +2,5 @@ streamlit
 altair==4.2.0
 python-dotenv
 requests
-transformers
 huggingface_hub
 openai
