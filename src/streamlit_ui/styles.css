@@ -1,0 +1,8 @@
+.main > div {
+  max-width: 95%;
+  padding: 1rem;
+}
+
+.sidebar .sidebar-content {
+  width: 30%;
+}
